@@ -1,2 +1,23 @@
 Отличается содержимое файла README
 " with nice buttons on his jacket (buttons branch)"
+
+Комментарии:
+add hometask.txt
+Merge branch 'boots_buttons'
+Merge remote-tracking branch 'yandex/hat'
+Merge remote-tracking branch 'yandex/buttons' into boots_buttons
+Merge remote-tracking branch 'yandex/boots' into boots_buttons
+fix readme
+dots
+README added
+boots
+heat added
+init
+
+
+
+
+
+
+
+
